@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/AngelMP06/AngelMontesPalma"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Angel+Montes+Palma;Self-taught+Data Scientist;Physics-Graduated;Love+to+learn+new+stuffs"></a>
+  <a href="https://github.com/AngelMP06/AngelMontesPalma"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Physics+Graduated+|+Data+Scientist+|+SQL;Love+to+learn+new+stuffs"></a>
 </p>
 
 <br>
@@ -16,13 +16,13 @@
 
 <br>
 
-- :man_scientist: Physics graduate working in **Data Science**
-- :computer: Interested in **astrophysical data, machine learning, and scientific computing**
-- :building_construction: Python developer building **end-to-end data analysis pipelines**
-- :man_student: I’m currently learning `Data Science` and `Machine Learning`.
-- :man_technologist: I love using Software as a solution for every `Problem`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
+- Physics graduate working in **Data Science**
+- Interested in **astrophysical data, machine learning, and scientific computing**
+- Python developer building **end-to-end data analysis pipelines**
+- I’m currently learning `Data Science` and `Machine Learning`.
+- I love using Software as a solution for every `Problem`.
+- Focused on `data analysis`, `scientific computing`, and `scalable data workflows`.
+- I’m currently open for a new `job opportunity`.
 
 <br>
 
@@ -60,7 +60,7 @@
 
 ## Featured Project
 
-### 🔬 Identification of Optical Counterparts in Globular Clusters
+### Identification of Optical Counterparts in Globular Clusters
 
 A full pipeline that combines **optical CMD analysis** and **X-ray data** to identify probable counterparts of X-ray sources in globular clusters.
 
@@ -83,7 +83,17 @@ A full pipeline that combines **optical CMD analysis** and **X-ray data** to ide
 <a href="https://www.linkedin.com/in/angel-montes-palma-463246270/">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
  
- 
-- LinkedIn: https://www.linkedin.com/in/angel-montes-palma-463246270/  
-- Email: angelmontespalma2002@gmail.com  
 
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:angelmontespalma2002@gmail.com) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/angel-montes-palma-463246270/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/AngelMP06)
+ 
+<hr/> 
+
+## 🔥 Streak Stats & Languages
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelMP06&theme=algolia" alt="AngelMP06" /></p>
+
+<br>
+<hr/>
